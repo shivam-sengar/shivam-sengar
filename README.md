@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivam-sengar
-- 👀 I’m interested in web development,coding and learing tecnologies
+- 👀 I’m interested in web development,coding and learing new tecnologies
 - 🌱 I’m currently learning html,css,javascript,Mongodb,ReactJs,NodeJs,ExpessJs
 
 
